@@ -1,0 +1,152 @@
+html from w3school
+css from w3 school
+git and git hub
+seo
+
+difference between merge and rebase
+
+git fetch-a
+git checkout-b branchname
+
+//17/03/2020
+css display to next all
+css responsive
+media quesry
+bootsrap
+css flex/flex container
+how to use spide images
+
+
+
+
+Attribute	Description
+
+alt		Specifies an alternative text for an image, when the image cannot be displayed
+disabled	Specifies that an input element should be disabled
+href		Specifies the URL (web address) for a link
+id		Specifies a unique id for an element
+src		Specifies the URL (web address) for an image
+style		Specifies an inline CSS style for an element
+title		Specifies extra information about an element (displayed as a tool tip)
+<p>		Defines a paragraph
+<br>		Inserts a single line break
+<pre>		Defines pre-formatted text
+<b>		Defines bold text
+<em>		Defines emphasized text 
+<i>		Defines italic text
+<small>		Defines smaller text
+<strong>	Defines important text
+<sub>		Defines subscripted text
+<sup>		Defines superscripted text
+<ins>		Defines inserted text
+<del>		Defines deleted text
+<mark>		Defines marked/highlighted text
+
+
+Use the style attribute for styling HTML elements
+Use background-color for background color
+Use color for text colors
+Use font-family for text fonts
+Use font-size for text sizes
+Use text-align for text alignment
+
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+
+
+
+
+
+The target attribute specifies where to open the linked document.
+
+The target attribute can have one of the following values:
+
+_blank 		- Opens the linked document in a new window or tab
+_self 		- Opens the linked document in the same window/tab as it was clicked (this is default)
+_parent 	- Opens the linked document in the parent frame
+_top		- Opens the linked document in the full body of the window
+framename 	- Opens the linked document in a named frame
+
+
+#imageMap
+rect 	- defines a rectangular region
+circle  - defines a circular region
+poly 	- defines a polygonal region
+default - defines the entire region
+
+
+
+
+#Related content for Table
+
+Use the HTML <table> element to define a table
+Use the HTML <tr> element to define a table row
+Use the HTML <td> element to define a table data
+Use the HTML <th> element to define a table heading
+Use the HTML <caption> element to define a table caption
+Use the CSS border property to define a border
+Use the CSS border-collapse property to collapse cell borders
+Use the CSS padding property to add padding to cells
+Use the CSS text-align property to align cell text
+Use the CSS border-spacing property to set the spacing between cells
+Use the colspan attribute to make a cell span many columns
+Use the rowspan attribute to make a cell span many rows
+Use the id attribute to uniquely define one table
+
+
+#for list
+Tag	Description
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dl>	Defines a description list
+<dt>	Defines a term in a description list
+<dd>	Describes the term in a description list
+
+
+
+
+
+
+# fro ordered list
+Type		Description
+type="1"	The list items will be numbered with numbers (default)
+type="A"	The list items will be numbered with uppercase letters
+type="a"	The list items will be numbered with lowercase letters
+type="I"	The list items will be numbered with uppercase roman numbers
+type="i"	The list items will be numbered with lowercase roman numbers
+
+
+
+
+Block level elements in HTML:
+
+<address>    <article>        <nav>
+<aside>      <blockquote>     <noscript>
+<dt>         <fieldset>       <ol>
+<figure>     <figcaption>     <main>
+<footer>     <form>           <pre>
+<h1>-<h6>    <header>         <section>
+<hr>         <li>             <table>
+<p>          <tfoot>          <ul>
+<video>
+
+
+
+
+Inline elements in HTML:
+<a>           <abbr>         <acronym>            <b>             <bdo>           <big>            <br>
+<button>      <cite>         <code>               <dfn>           <em>            <i>              <img>
+<input>       <kbd>          <label>              <map>           <object>        <output>         <q>
+<samp>        <script>       <select>             <small>         <span>          <strong>         <sub>
+<sup>         <textarea>     <time>               <tt>            <var>
